@@ -1,5 +1,5 @@
 {
-	"name": "atha/database-seeder",
+	"name": "atha/db-seeder",
     "description": "A simple application for seeding a database without touching database manager or file. this app use fzaninotto/faker",
     "keywords": ["database", "seeder", "db-seeder", "database-seeder"],
     "license": "None",
